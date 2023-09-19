@@ -14,3 +14,9 @@ commit this cahnge then reseting with git --soft
 
 
 making change in the second branch 
+
+
+mking first change
+
+
+making second cahnge for rebase 
