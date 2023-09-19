@@ -4,3 +4,6 @@ this is the first commit
 
 
 making this change from github then pulling it in local
+
+
+commit this cahnge then reseting with git --soft
