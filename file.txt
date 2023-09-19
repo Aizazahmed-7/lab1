@@ -7,3 +7,6 @@ making this change from github then pulling it in local
 
 
 commit this cahnge then reseting with git --soft
+
+
+making change in the second branch 
